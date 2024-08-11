@@ -1,6 +1,6 @@
 **Derivatives and Alternate Investments**
 
-**[INTRODUCTION]{.underline}**
+**[INTRODUCTION]**
 
 The history of financial derivatives dates back several centuries, with
 various forms of derivative contracts being used to manage price risks
